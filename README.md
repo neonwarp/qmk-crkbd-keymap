@@ -1,4 +1,4 @@
-# corne crkdb split
+# corne crkbd split
 
 Open the cloned repo inside [QMK MSYS](https://msys.qmk.fm/)
 
