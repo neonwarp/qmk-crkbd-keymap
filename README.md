@@ -2,7 +2,7 @@
 
 Open the cloned repo inside [QMK MSYS](https://msys.qmk.fm/)
 
-Generate the `keymap.c` file
+Generate the `keymap.c` file. This will overwrite the file!
 
 ```bash
 qmk json2c crkbd_rev1_layout_split_3x6_3_mine.json -o keymap.c
