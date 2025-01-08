@@ -1,0 +1,4 @@
+#define MASTER_LEFT
+
+#define RGB_MATRIX_TIMEOUT 300000
+#define RGB_MATRIX_SLEEP
