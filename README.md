@@ -14,3 +14,5 @@ Compile the code and flash it with [QMK Toolbox](https://qmk.fm/toolbox)
 ```bash
 qmk compile -kb crkbd/rev1 -km "$(whoami)"
 ```
+
+![keyboard](./keyboard.png)
