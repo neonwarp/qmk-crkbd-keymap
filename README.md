@@ -1,6 +1,12 @@
 # corne crkbd split
 
-Open the cloned repo inside [QMK MSYS](https://msys.qmk.fm/)
+Open the cloned repo inside [QMK MSYS](https://msys.qmk.fm/), then run:
+
+```bash
+./build.sh
+```
+
+## Manual setup
 
 Create a named directory under the keyboards then copy the files
 

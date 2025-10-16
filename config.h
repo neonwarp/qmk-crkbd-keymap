@@ -1,3 +1,7 @@
+/**
+ * Copyright (c) neonwarp
+ * MIT License
+ */
 #pragma once
 
 #define MASTER_LEFT
